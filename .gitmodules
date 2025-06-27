@@ -1,0 +1,4 @@
+[submodule "blog/themes/anzhiyu"]
+	path = blog/themes/anzhiyu
+	url = https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git
+	branch = main
